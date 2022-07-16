@@ -18,3 +18,8 @@ update to storage 0.8.1
 
 # setup 
 just run ```pnpm i```
+
+
+# about the error
+only show in chrome
+firefox show nothing in the extension inspect
