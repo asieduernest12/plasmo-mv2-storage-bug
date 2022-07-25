@@ -1,4 +1,5 @@
 import { useStorage } from "@plasmohq/storage"
+import React from "react"
 // import type { PlasmoContentScript } from "plasmo"
 
 // export const config: PlasmoContentScript = {

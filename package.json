@@ -10,14 +10,14 @@
   },
   "dependencies": {
     "@plasmohq/storage": "^0.8.1",
-    "plasmo": "^0.48.0",
+    "plasmo": "^0.48.4",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
   "devDependencies": {
     "@plasmohq/prettier-plugin-sort-imports": "*",
     "@types/chrome": "0.0.193",
-    "@types/node": "18.0.4",
+    "@types/node": "18.6.1",
     "@types/react": "18.0.15",
     "@types/react-dom": "18.0.6",
     "prettier": "2.7.1",

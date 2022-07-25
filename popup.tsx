@@ -1,4 +1,5 @@
 import { useStorage } from "@plasmohq/storage"
+import React from "react"
 
 function IndexPopup() {
   const [openCount,setOpenCount] = useStorage<number>({key:"open-count",area: 'local'}, (storedCount) =>
